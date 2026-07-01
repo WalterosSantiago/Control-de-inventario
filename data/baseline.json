@@ -1,0 +1,18 @@
+[
+    {
+        "id": "PC001",
+        "hostname": "equipo-ventas-01",
+        "procesador": "Intel Core i5-12400",
+        "ram": "16GB",
+        "disco": "512GB SSD",
+        "sistema_operativo": "Debian 13"
+    },
+    {
+        "id": "PC002",
+        "hostname": "equipo-dev-01",
+        "procesador": "Ryzen 5 5600X",
+        "ram": "32GB",
+        "disco": "1TB SSD",
+        "sistema_operativo": "Windows 11"
+    }
+]

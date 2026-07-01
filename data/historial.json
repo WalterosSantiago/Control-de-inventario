@@ -1,0 +1,18 @@
+[
+    {
+        "fecha": "2026-07-01 09:01:53",
+        "equipo_id": "PC001",
+        "tipo": "MODIFICACION",
+        "campo": "RAM",
+        "esperado": "16GB",
+        "actual": "32GB"
+    },
+    {
+        "fecha": "2026-07-01 09:01:53",
+        "equipo_id": "PC002",
+        "tipo": "MODIFICACION",
+        "campo": "Sistema Operativo",
+        "esperado": "Windows 11",
+        "actual": "Windows 12"
+    }
+]
